@@ -2,7 +2,7 @@
 
 A Chrome extension that brings Firefox-style bookmark keywords to Chrome. Select your favorite bookmarks, then type `-` in the address bar to quickly search and navigate to them.
 
-Can be installed from the [chrome webstore]().
+Can be installed from the [chrome webstore](https://chromewebstore.google.com/detail/bookmark-keywords/bapmgalbhgmcdomcpkmkcehmffbjbibg).
 
 ## Usage
 
